@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Historias que la noche esconde
+
+This log tracks the cryptographic history and versioning for the song **Historias que la noche esconde** (historias-que-la-noche-esconde).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:39:36.826483 | `v1` | `be0e5efcb527134eeac7fb94e28300f9f1a632848e1330bac33fe57751593c14` | `c9037dc34fe023126a9b59fdbcc80605afd1c4a67a37cab76c966dba5897e161` | `2026-06-15_historias-que-la-noche-esconde-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
