@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-que-la-noche-esconde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Historias que la noche esconde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-la-noche-esconde/) |
+| **Get License** | [Get License For Historias que la noche esconde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-que-la-noche-esconde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna sabe lo que quiero hacerte
+> Bajo las luces de Madrid, mi plan es convencerte
+> Nena, tienes un flow que me hackea la mente
+> Una mirada tuya y el ambiente está caliente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
